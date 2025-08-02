@@ -1,0 +1,12 @@
+{
+  "/dashboard/page": "app/dashboard/page.js",
+  "/forums/page": "app/forums/page.js",
+  "/login/page": "app/login/page.js",
+  "/notes/[id]/page": "app/notes/[id]/page.js",
+  "/notes/page": "app/notes/page.js",
+  "/page": "app/page.js",
+  "/profile/page": "app/profile/page.js",
+  "/quizzes/create/page": "app/quizzes/create/page.js",
+  "/quizzes/page": "app/quizzes/page.js",
+  "/register/page": "app/register/page.js"
+}
